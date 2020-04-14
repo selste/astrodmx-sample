@@ -1,0 +1,40 @@
+Camera Log File: AstroDMx Capture (0.68.1)
+--------------------------------------------
+
+AstroDMx Mode           = Hardware Acceleration
+
+Camera Name             = ZWO ASI290MM
+Camera Format           = MONO 16
+Resolution              = 1024 x 768
+Output Format           = SER (16-Bit)
+Capture Mode            = Frame Limit
+
+Colour Mode             = Greyscale
+Frame Integration       = NOT ACTIVE / NOT SUPPORTED
+
+Exposure                = AUTO
+Gain                    = AUTO
+Brightness              = 0 % (native: 1)
+
+USB Bandwidth           = 50
+USB Speed               = 0
+
+ROI Position            = X = 456 Y = 164
+Binning                 = 1x1
+Flip Position           = NOT ACTIVE
+Bit Depth               = Mapped to UPPER (12-Bit ADC)
+Chip Temperature        = 28 °C
+Realtime Calibration    = NOT ACTIVE
+
+Frames Saved            = 10
+Average Frame Rate      = 21.978 fps
+Histogram Mode          = LINEAR
+Histogram Channel       = Greyscale
+
+Data Collection Started = 2020/4/14 at 16:18:36
+Data Collection Ended   = 2020/4/14 at 16:18:37
+
+Connection Monitor resets: 0 events
+
+
+NB: This file should be viewed using a fixed width font
